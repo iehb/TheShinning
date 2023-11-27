@@ -1,5 +1,5 @@
-# TheShinning
- Contiene un video de unity con 3 niveles
+# The Shinning
+![The Shinning](https://github.com/iehb/TheShinning/blob/main/WhatsApp%20Image%202023-09-22%20at%202.33.49%20PM%20(1).jpeg)
 # Tablero TRELLO
 * Link [Trello](https://trello.com/invite/b/0lQT9RcI/ATTIf418c09484e2e493e5cf59f7b6b4885aC1F6D11B/videojuego)
 # Género
