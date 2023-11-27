@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 01ea15272e3db2a4a92533470d06a13c
+timeCreated: 1517456684
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 100348
+  packageName: Simple City pack plain
+  packageVersion: 1.0
+  assetPath: Assets/Simple city plain/Prefabs/Sideway Prefab.prefab
+  uploadId: 229849
