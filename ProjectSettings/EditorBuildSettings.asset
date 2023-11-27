@@ -14,12 +14,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Ciudad/scene/Nivel2.unity
     guid: 79f8bac4c75da6e43bd8288f7d84106c
+  - enabled: 1
+    path: Assets/Scenes/InicioVideoJuego.unity
+    guid: 1128e564aaf6b654ca0f848924228f5a
+  - enabled: 1
+    path: Assets/Scenes/TheShinningFinal.unity
+    guid: 1a8b5d54b6b1da04d900f1e0c1dd0165
   - enabled: 0
     path: Assets/Scenes/Nivel2.unity
     guid: 5ba8bfe7beaec1f45b5fbb5691074059
-  - enabled: 0
-    path: Assets/Scenes/Nombre.unity
-    guid: 1128e564aaf6b654ca0f848924228f5a
   - enabled: 0
     path: Assets/Scenes/Level1SinBarra.unity
     guid: b9c182a8a4311c54e9ccb96be91b9ba9
