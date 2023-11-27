@@ -23,7 +23,7 @@ Una extraña y nueva enfermedad ha empezado a infectar a los ciudadanos, por lo 
 * Distritos ricos: A medida que avanza el juego, el jugador debe infiltrarse en áreas ricas, superar obstáculos más difíciles y enfrentar enemigos más poderosos.
 
 # Armas
-* Llaves de "The Shining": Estos son objetos especiales que el jugador debe recolectar a lo largo del juego. Cada llave representa un propósito o desafío cumplido, y al reunir todas, el protagonista podrá acceder a la entrada de "The Shining."
+Llaves de "The Shining": Estos son objetos especiales que el jugador debe recolectar a lo largo del juego. Cada llave representa un propósito o desafío cumplido, y al reunir todas, el protagonista podrá acceder a la entrada de "The Shining."
 
 # Vestimenta
 * Ropa de supervivencia: El personaje lleva ropa simple para sobrevivir en los distritos empobrecidos.
