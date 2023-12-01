@@ -38,6 +38,6 @@ public class SelectName : MonoBehaviour
    
    public void Aceptar(){
      PlayerPrefs.SetString("nombre",inputField.text);
-     SceneManager.LoadScene(0);
+     SceneManager.LoadScene(1);
    }
 }

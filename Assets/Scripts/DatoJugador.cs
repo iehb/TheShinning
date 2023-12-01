@@ -14,7 +14,7 @@ public class DatoJugador : MonoBehaviour
     {
         vidaVisual.GetComponent<Slider>().value = vidaPlayer;
         
-        if(vidaPlayer <= 5 )
+        if(vidaPlayer <= 0 )
         {
             MuerteJugador?.Invoke(this, EventArgs.Empty);
             Destroy(gameObject);    

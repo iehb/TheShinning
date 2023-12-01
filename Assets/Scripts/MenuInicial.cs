@@ -11,14 +11,14 @@ public class MenuInicial : MonoBehaviour
 
     public void Salir (){
       
-      UnityEditor.EditorApplication.isPlaying=false;
+      //UnityEditor.EditorApplication.isPlaying=false;
       Application.Quit(); 
        Debug.Log("Salir...");
                
    }
 
    
-    public void MenuMai(string nombre){
-        SceneManager.LoadScene(nombre);
+    public void MenuMai(){
+        SceneManager.LoadScene(1);
     }
 }
